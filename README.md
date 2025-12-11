@@ -1,4 +1,3 @@
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -72,7 +71,9 @@
 
 ###
 
+<p align="left">OTHERS</p>
 
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -84,6 +85,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+
 
 ###
