@@ -27,7 +27,8 @@
 
 ###
 
-<h3 align="left">🛠BACKEND</h3>
+<h3 align="left">⚙️
+Backend</h3>
 
 ###
 
@@ -39,7 +40,8 @@
 
 ###
 
-<h3 align="left">FRONTEND</h3>
+<h3 align="left">🎨
+Frontend</h3>
 
 ###
 
@@ -59,7 +61,8 @@
 
 ###
 
-<p align="left">DATABASES</p>
+<p align="left">🗄️
+Database</p>
 
 ###
 
@@ -71,7 +74,8 @@
 
 ###
 
-<p align="left">OTHERS</p>
+<p align="left">🛠️
+Tools</p>
 
 ###
 
