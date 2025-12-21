@@ -15,7 +15,15 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=elmehdi05tabi.elmehdi05tabi&"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h1 align="center">Hey There 👋 I'm El Mehdi Tabi</h1>
 
 ###
 
@@ -27,8 +35,7 @@
 
 ###
 
-<h3 align="left">⚙️
-Backend</h3>
+<h3 align="left">⚙️ Backend</h3>
 
 ###
 
@@ -36,12 +43,13 @@ Backend</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
 
-<h3 align="left">🎨
-Frontend</h3>
+<h3 align="left">🎨 Frontend</h3>
 
 ###
 
@@ -61,8 +69,7 @@ Frontend</h3>
 
 ###
 
-<p align="left">🗄️
-Database</p>
+<h3 align="left">🗄️ Database</h3>
 
 ###
 
@@ -74,8 +81,7 @@ Database</p>
 
 ###
 
-<p align="left">🛠️
-Tools</p>
+<h3 align="left">🛠️ Tools</h3>
 
 ###
 
@@ -89,6 +95,12 @@ Tools</p>
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=elmehdi05tabi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
