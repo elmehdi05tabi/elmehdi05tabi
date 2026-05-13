@@ -26,12 +26,10 @@
 
 I am a **Specialized Technician in Software Development** passionate about building modern, scalable and secure web applications.
 
-I work mainly with **Backend Development**, **REST APIs**, **Microservices Architecture**, and modern full-stack technologies.
-
 - 🔭 Currently working on full-stack web projects  
 - ⚙️ Interested in Microservices, REST APIs and Message Brokers  
 - 🧠 Always improving my problem-solving and software architecture skills  
-- 🚀 Goal: becoming a strong Full-Stack / Backend Developer  
+- 🚀 Goal: becoming a strong Full-Stack  Developer  
 
 ---
 
